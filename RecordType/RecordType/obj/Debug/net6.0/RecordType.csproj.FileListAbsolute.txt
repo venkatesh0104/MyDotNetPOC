@@ -1,0 +1,15 @@
+C:\AriqtPOC\RecordType\RecordType\bin\Debug\net6.0\RecordType.exe
+C:\AriqtPOC\RecordType\RecordType\bin\Debug\net6.0\RecordType.deps.json
+C:\AriqtPOC\RecordType\RecordType\bin\Debug\net6.0\RecordType.runtimeconfig.json
+C:\AriqtPOC\RecordType\RecordType\bin\Debug\net6.0\RecordType.dll
+C:\AriqtPOC\RecordType\RecordType\bin\Debug\net6.0\RecordType.pdb
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\RecordType.csproj.AssemblyReference.cache
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\RecordType.GeneratedMSBuildEditorConfig.editorconfig
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\RecordType.AssemblyInfoInputs.cache
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\RecordType.AssemblyInfo.cs
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\RecordType.csproj.CoreCompileInputs.cache
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\RecordType.dll
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\refint\RecordType.dll
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\RecordType.pdb
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\RecordType.genruntimeconfig.cache
+C:\AriqtPOC\RecordType\RecordType\obj\Debug\net6.0\ref\RecordType.dll
