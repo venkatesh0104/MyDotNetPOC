@@ -1,0 +1,15 @@
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\bin\Debug\net6.0\ConsoleAppValueObjectPOC.exe
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\bin\Debug\net6.0\ConsoleAppValueObjectPOC.deps.json
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\bin\Debug\net6.0\ConsoleAppValueObjectPOC.runtimeconfig.json
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\bin\Debug\net6.0\ConsoleAppValueObjectPOC.dll
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\bin\Debug\net6.0\ConsoleAppValueObjectPOC.pdb
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\ConsoleAppValueObjectPOC.csproj.AssemblyReference.cache
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\ConsoleAppValueObjectPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\ConsoleAppValueObjectPOC.AssemblyInfoInputs.cache
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\ConsoleAppValueObjectPOC.AssemblyInfo.cs
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\ConsoleAppValueObjectPOC.csproj.CoreCompileInputs.cache
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\ConsoleAppValueObjectPOC.dll
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\refint\ConsoleAppValueObjectPOC.dll
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\ConsoleAppValueObjectPOC.pdb
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\ConsoleAppValueObjectPOC.genruntimeconfig.cache
+C:\AriqtPOC\ConsoleAppValueObjectPOC\ConsoleAppValueObjectPOC\obj\Debug\net6.0\ref\ConsoleAppValueObjectPOC.dll
